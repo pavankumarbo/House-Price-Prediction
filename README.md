@@ -128,7 +128,7 @@ Low Overall quality index and less pool area negatively effect the sale price of
 
 High Overall quality rating of 10,9 and neighborhoods of Crawfor and StoneBr are postively associated with high sale prices.
 
-By how much these variables effect can be calculated by substituting the coefficients that we estimated from our linear model.
+By how much these variables effect the house sales price can be calculated by substituting our estimated coefficients values in the regression equation.
 
 
 
