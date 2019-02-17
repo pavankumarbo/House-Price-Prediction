@@ -17,7 +17,9 @@ scikitlearn, pandas, numpy and matplotlib.
 
 # Well, something more about the dataset?
 This housing dataset contains 80 variables, Among them, 57 are categorical variables and 23 are numerical variables.
+
 train.csv contains 1460 rows and test.csv contains 1459 rows.
+
 Description of variables is as follows:
 SalePrice - the property's sale price in dollars. This is the target variable that you're trying to predict.
 MSSubClass: The building class
